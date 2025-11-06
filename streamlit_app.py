@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.cluster import KMeans # 클러스터링을 위해 import
+from sklearn.cluster import KMeans 
 
 # --- 1. 앱 설정 ---
 st.set_page_config(
